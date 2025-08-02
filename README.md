@@ -84,6 +84,6 @@ Feel free to reach out or connect with me:
 
 📧 Email: sheilamumbi2005@gmail.com
 
-💼 GitHub: github.com/Shee440
+💼 GitHub: https://github.com/Shee440
 
 # @2025 My Portfolio Website
