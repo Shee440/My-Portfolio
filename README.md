@@ -72,6 +72,11 @@ This portfolio is deployed and publicly viewable on:
 
 ✅ Tested layout on various screen sizes
 
+## License
+
+This project is licensed under the MIT License, see the **LICENSE(LICENSE.txt)** file for details.
+
+
 ## 📞 Contact Information
 Feel free to reach out or connect with me:
 
