@@ -36,10 +36,13 @@ This website serves as a central hub for displaying my achievements and aspirati
 ## 📁 File Structure
 
 /portfolio-website
-│
+
 ├── index.html # Main HTML structure
+
 ├── style.css # All custom styling
+
 ├── profile.jpg # Profile picture
+
 ├──cv.pdf # My CV
 
 This file contains all the structural elements of the portfolio.
