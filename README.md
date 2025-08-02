@@ -45,6 +45,8 @@ This website serves as a central hub for displaying my achievements and aspirati
 
 ├──cv.pdf # My CV
 
+├──LICENSE.txt #LICENSE File
+
 This file contains all the structural elements of the portfolio.
 
 - **Semantic HTML** was used (e.g., `<section>`, `<header>`, `<nav>`) for clarity and accessibility.
