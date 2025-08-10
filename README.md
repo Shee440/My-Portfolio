@@ -4,6 +4,8 @@
 
 Welcome to my portfolio website. This project was created as a personal initiative to showcase my academic background, technical skills, career interests, and creative projects in a visually appealing and structured format.
 
+# View Live Page
+index
 ---
 
 ## 📚 Project Overview
