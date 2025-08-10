@@ -6,7 +6,7 @@ Welcome to my portfolio website. This project was created as a personal initiati
 
 # View Live Page
 
-https://github.com/Shee440/My-Portfolio/blob/main/index.html
+http://127.0.0.1:5500/Html/My%20Portfolio/index.html
 ---
 
 ## 📚 Project Overview
